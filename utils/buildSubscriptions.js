@@ -1,29 +1,29 @@
 const { faker } = require("@faker-js/faker");
 
-const createSubscriptions = ({
+const buildSubscriptions = ({
   settingSubjectId,
   username,
   assessmentGroupId,
   quantity,
 }) => {
   const subscriptions = [];
-  for (let i = 0; i <= quantity; i++) {
+  for (let i = 0; i < quantity; i++) {
     const ramdomId = faker.datatype.uuid();
     const subscription = {
       name: faker.internet.userName,
       lastName: faker.internet.userName,
-      username,
-      settingSubjectId,
       subscriptionExternalId: ramdomId,
       assessmentExternalId: ramdomId,
       assessmentId: ramdomId,
-      minimumGradeToApprove: 4,
-      assessmentGroupId: assessmentGroup,
       subscriptionId: ramdomId,
+      username,
+      settingSubjectId,
+      assessmentGroupId,
+      minimumGradeToApprove: 4,
     };
     subscriptions.push(subscription);
   }
   return subscriptions;
 };
 
-module.exports = createSubscriptions;
+module.exports = buildSubscriptions;

@@ -1,19 +1,20 @@
 require("dotenv").config();
 
-const createSubscriptions = require("./createSubscriptions");
-const getToken = require("./getToken");
+const buildSubscriptions = require("./utils/buildSubscriptions");
+const getToken = require("./utils/getToken");
 
 async function main() {
   try {
     const { headers } = await getToken();
-    const subscriptions = createSubscriptions({
+
+    const subscriptionsList = buildSubscriptions({
       settingSubjectId: "5586a832-3a60-5a16-8fec-c1f0de190a5b",
       username: "FSIEH",
       assessmentGroupId: "010203",
-      quantity: 3000,
+      quantity: 1,
     });
 
-    const subscriptionsPromises = subscriptions.map((subscription) => {
+    const subscriptionsPromises = subscriptionsList.map((subscription) => {
       return fetch(
         `${process.env.ASSESSMENT_BACKEND_URL}/v1/assessments-groups/${subscription.assessmentGroupId}/subscriptions/${subscription.subscriptionId}`,
         { headers, method: "POST", body: JSON.stringify(subscription) }
