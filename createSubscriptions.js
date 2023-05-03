@@ -3,7 +3,7 @@ const { faker } = require("@faker-js/faker");
 const createSubscriptions = ({
   settingSubjectId,
   username,
-  assessmentGroup,
+  assessmentGroupId,
   quantity,
 }) => {
   const subscriptions = [];
