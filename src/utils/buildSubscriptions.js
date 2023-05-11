@@ -10,13 +10,13 @@ const buildSubscriptions = ({
   for (let i = 0; i < quantity; i++) {
     const ramdomId = faker.datatype.uuid();
     const subscription = {
-      name: faker.internet.userName,
-      lastName: faker.internet.userName,
+      name: faker.name.firstName(),
+      lastName: faker.name.lastName(),
       subscriptionExternalId: ramdomId,
       assessmentExternalId: ramdomId,
       assessmentId: ramdomId,
       subscriptionId: ramdomId,
-      username,
+      username: username || faker.internet.userName(),
       settingSubjectId,
       assessmentGroupId,
       minimumGradeToApprove: 4,

@@ -1,0 +1,127 @@
+{"label":"index.js","level":"info","message":"Creating assessment group","metadata":{},"timestamp":"2023-05-11 10:57:40"}
+{"label":"index.js","level":"info","message":{"assessmentGroupResponse":{"assessmentGroupStatusHistory":{"creationDate":"2023-05-11T10:57:41.441946383-03:00","id":"fbe17a10-759a-4466-a78c-6165319f9e5b","reasons":"Created","status":"Creado","username":"Dolores95"},"endDate":"2024-01-21T14:11:27.589-03:00","externalId":"64579","groupTypeID":"1","id":"deb15dd0-95b1-4c65-9ed6-13bb20fc437b","startDate":"2023-05-11T11:57:40.051-03:00","username":"Dolores95"}},"metadata":{},"timestamp":"2023-05-11 10:57:41"}
+{"label":"index.js","level":"info","message":"Creating subscriptions","metadata":{},"timestamp":"2023-05-11 10:57:41"}
+{"label":"index.js","level":"info","message":{"subscriptionsResponse":[{"academyCode":"INF331","assessment":{"amountQuestions":20,"assessmentName":"primer parcial(20)","assessmentStatusHistories":[{"assessmentStatus":{"id":1,"name":"Creado"},"date":"2023-05-11T10:57:43.399-03:00","id":"d0525388-71a6-40d6-b287-07df4e703aa6","reason":"Assessment created successfully","username":"SYSTEM"}],"declarationConformity":{"id":"1","status":"Not Accepted"},"endedBy":null,"generationTypeId":2,"grade":null,"id":"a457f390-7111-45b3-9477-e53738de5f05","maxRetries":3,"minimumGradeToApprove":4,"resolutionTime":40,"status":{"assessmentStatus":{"id":1,"name":"Creado"},"date":"2023-05-11T10:57:43.399-03:00","id":"d0525388-71a6-40d6-b287-07df4e703aa6","reason":"Assessment created successfully","username":"SYSTEM"}},"assessmentExternalId":null,"assessmentGroup":{"endDate":"2024-01-21T14:11:27.589-03:00","externalId":"64579","groupTypeID":"1","lastModifiedByIntegration":null,"startDate":"2023-05-11T11:57:40.051-03:00","username":"Dolores95"},"courseName":"TALLER DE INGENIERIA DE SOFTWARE","externalId":"a457f390-7111-45b3-9477-e53738de5f05","id":"a457f390-7111-45b3-9477-e53738de5f05","lastName":"Keeling","name":"Kirstin","settingSubjectId":"df511063-8e3b-56f7-b890-11d74b4f4a92","settingSubjectVersionId":"cd6d2af0-9120-46c3-bc90-153033679d3e","username":"FSIEH"}]},"metadata":{},"timestamp":"2023-05-11 10:57:44"}
+{"label":"index.js","level":"debug","message":"Creating assessment group","metadata":{},"timestamp":"2023-05-11 10:58:07"}
+{"label":"index.js","level":"debug","message":{"assessmentGroupResponse":{"assessmentGroupStatusHistory":{"creationDate":"2023-05-11T10:58:08.779067387-03:00","id":"72b74987-2510-4981-bd3f-cb9f255eb5a1","reasons":"Created","status":"Creado","username":"Albina_Bednar"},"endDate":"2023-10-25T09:16:40.573-03:00","externalId":"93636","groupTypeID":"1","id":"b0362f92-7731-477e-a330-9e2e26873734","startDate":"2023-05-11T11:58:07.801-03:00","username":"Albina_Bednar"}},"metadata":{},"timestamp":"2023-05-11 10:58:09"}
+{"label":"index.js","level":"debug","message":"Creating subscriptions","metadata":{},"timestamp":"2023-05-11 10:58:09"}
+{"label":"index.js","level":"debug","message":{"subscriptionsResponse":[{"academyCode":"INF331","assessment":{"amountQuestions":20,"assessmentName":"primer parcial(20)","assessmentStatusHistories":[{"assessmentStatus":{"id":1,"name":"Creado"},"date":"2023-05-11T10:58:10.684-03:00","id":"d8040c81-aaf2-4dea-bff6-6533baf2a556","reason":"Assessment created successfully","username":"SYSTEM"}],"declarationConformity":{"id":"1","status":"Not Accepted"},"endedBy":null,"generationTypeId":2,"grade":null,"id":"6325175e-ae7d-474e-b4f9-53a91e7591d1","maxRetries":3,"minimumGradeToApprove":4,"resolutionTime":40,"status":{"assessmentStatus":{"id":1,"name":"Creado"},"date":"2023-05-11T10:58:10.684-03:00","id":"d8040c81-aaf2-4dea-bff6-6533baf2a556","reason":"Assessment created successfully","username":"SYSTEM"}},"assessmentExternalId":null,"assessmentGroup":{"endDate":"2023-10-25T09:16:40.573-03:00","externalId":"93636","groupTypeID":"1","lastModifiedByIntegration":null,"startDate":"2023-05-11T11:58:07.801-03:00","username":"Albina_Bednar"},"courseName":"TALLER DE INGENIERIA DE SOFTWARE","externalId":"6325175e-ae7d-474e-b4f9-53a91e7591d1","id":"6325175e-ae7d-474e-b4f9-53a91e7591d1","lastName":"Vandervort","name":"Ford","settingSubjectId":"df511063-8e3b-56f7-b890-11d74b4f4a92","settingSubjectVersionId":"cd6d2af0-9120-46c3-bc90-153033679d3e","username":"FSIEH"}]},"metadata":{},"timestamp":"2023-05-11 10:58:11"}
+{"label":"index.js","level":"debug","message":"Creating assessment group","metadata":{},"timestamp":"2023-05-11 10:59:31"}
+{"label":"index.js","level":"debug","message":{"assessmentGroupResponse":{"assessmentGroupStatusHistory":{"creationDate":"2023-05-11T10:59:32.492901334-03:00","id":"7c51d245-0910-4ebc-b481-20c1f74cfc73","reasons":"Created","status":"Creado","username":"Lennie.OReilly74"},"endDate":"2024-04-30T09:28:19.1-03:00","externalId":"38917","groupTypeID":"1","id":"0c4715ac-85aa-42b9-a6ed-271be3149e29","startDate":"2023-05-11T11:59:31.289-03:00","username":"Lennie.OReilly74"}},"metadata":{},"timestamp":"2023-05-11 10:59:32"}
+{"label":"index.js","level":"debug","message":"Creating subscriptions","metadata":{},"timestamp":"2023-05-11 10:59:32"}
+{"label":"index.js","level":"debug","message":{"subscriptionsResponse":[{"academyCode":"INF331","assessment":{"amountQuestions":20,"assessmentName":"primer parcial(20)","assessmentStatusHistories":[{"assessmentStatus":{"id":1,"name":"Creado"},"date":"2023-05-11T10:59:35.707-03:00","id":"586a9b97-ae27-4fa2-962b-07f14b79ee05","reason":"Assessment created successfully","username":"SYSTEM"}],"declarationConformity":{"id":"1","status":"Not Accepted"},"endedBy":null,"generationTypeId":2,"grade":null,"id":"db4e640d-ca09-4130-a39f-fc76866135ce","maxRetries":3,"minimumGradeToApprove":4,"resolutionTime":40,"status":{"assessmentStatus":{"id":1,"name":"Creado"},"date":"2023-05-11T10:59:35.707-03:00","id":"586a9b97-ae27-4fa2-962b-07f14b79ee05","reason":"Assessment created successfully","username":"SYSTEM"}},"assessmentExternalId":null,"assessmentGroup":{"endDate":"2024-04-30T09:28:19.1-03:00","externalId":"38917","groupTypeID":"1","lastModifiedByIntegration":null,"startDate":"2023-05-11T11:59:31.289-03:00","username":"Lennie.OReilly74"},"courseName":"TALLER DE INGENIERIA DE SOFTWARE","externalId":"db4e640d-ca09-4130-a39f-fc76866135ce","id":"db4e640d-ca09-4130-a39f-fc76866135ce","lastName":"Bernier","name":"Elwyn","settingSubjectId":"df511063-8e3b-56f7-b890-11d74b4f4a92","settingSubjectVersionId":"cd6d2af0-9120-46c3-bc90-153033679d3e","username":"FSIEH"}]},"metadata":{},"timestamp":"2023-05-11 10:59:36"}
+{"label":"index.js","level":"debug","message":"Creating assessment group","metadata":{},"timestamp":"2023-05-11 11:00:52"}
+{"label":"index.js","level":"info","message":"Creating assessment group","metadata":{},"timestamp":"2023-05-11 11:01:21"}
+{"label":"index.js","level":"info","message":"Assessment group created %O","metadata":{},"timestamp":"2023-05-11 11:01:23"}
+{"label":"index.js","level":"info","message":"Creating subscriptions","metadata":{},"timestamp":"2023-05-11 11:01:23"}
+{"label":"index.js","level":"info","message":"Subscriptions created %O","metadata":{},"timestamp":"2023-05-11 11:01:25"}
+{"label":"index.js","level":"info","message":"Creating assessment group","metadata":{},"timestamp":"2023-05-11 11:02:07"}
+{"label":"index.js","level":"info","message":"Assessment group created %O","metadata":{},"timestamp":"2023-05-11 11:02:08"}
+{"label":"index.js","level":"info","message":"Creating subscriptions","metadata":{},"timestamp":"2023-05-11 11:02:08"}
+{"label":"index.js","level":"info","message":"Subscriptions created %O","metadata":{},"timestamp":"2023-05-11 11:02:10"}
+{"label":"index.js","level":"info","message":"Creating assessment group","metadata":{},"timestamp":"2023-05-11 11:02:54"}
+{"label":"index.js","level":"info","message":"Assessment group created %O","metadata":{},"timestamp":"2023-05-11 11:02:55"}
+{"label":"index.js","level":"info","message":"Creating subscriptions","metadata":{},"timestamp":"2023-05-11 11:02:55"}
+{"label":"index.js","level":"info","message":"Subscriptions created %O","metadata":{},"timestamp":"2023-05-11 11:02:58"}
+{"label":"index.js","level":"info","message":"Creating assessment group","metadata":{},"timestamp":"2023-05-11 11:05:15"}
+{"label":"index.js","level":"info","message":"Assessment group created %O","metadata":{},"timestamp":"2023-05-11 11:05:17"}
+{"label":"index.js","level":"info","message":"Creating subscriptions","metadata":{},"timestamp":"2023-05-11 11:05:17"}
+{"label":"index.js","level":"info","message":"Subscriptions created %O","metadata":{},"timestamp":"2023-05-11 11:05:19"}
+{"label":"index.js","level":"info","message":"Creating assessment group","metadata":{},"timestamp":"2023-05-11 11:24:05"}
+{"label":"index.js","level":"info","message":"Assessment group created %O","metadata":{},"timestamp":"2023-05-11 11:24:07"}
+{"label":"index.js","level":"info","message":"Creating subscriptions","metadata":{},"timestamp":"2023-05-11 11:24:07"}
+{"label":"index.js","level":"info","message":"Subscriptions created %O","metadata":{},"timestamp":"2023-05-11 11:24:38"}
+{"label":"index.js","level":"info","message":"Creating assessment group","metadata":{},"timestamp":"2023-05-11 11:25:45"}
+{"label":"index.js","level":"info","message":"Creating assessment group","metadata":{},"timestamp":"2023-05-11 11:28:07"}
+{"label":"index.js","level":"info","message":"Assessment group created %O","metadata":{},"timestamp":"2023-05-11 11:28:10"}
+{"label":"index.js","level":"info","message":"Creating subscriptions","metadata":{},"timestamp":"2023-05-11 11:28:10"}
+{"label":"index.js","level":"info","message":"Subscriptions created %O","metadata":{},"timestamp":"2023-05-11 11:28:52"}
+{"label":"index.js","level":"info","message":"Updating assessment status","metadata":{},"timestamp":"2023-05-11 11:28:53"}
+{"label":"index.js","level":"info","message":"Creating assessment group","metadata":{},"timestamp":"2023-05-11 11:36:07"}
+{"label":"index.js","level":"info","message":"Assessment group created %O","metadata":{},"timestamp":"2023-05-11 11:36:10"}
+{"label":"index.js","level":"info","message":"Creating subscriptions","metadata":{},"timestamp":"2023-05-11 11:36:10"}
+{"label":"index.js","level":"info","message":"Subscriptions created %O","metadata":{},"timestamp":"2023-05-11 11:36:47"}
+{"label":"index.js","level":"info","message":"Updating assessment status","metadata":{},"timestamp":"2023-05-11 11:36:49"}
+{"label":"index.js","level":"info","message":"Creating assessment group","metadata":{},"timestamp":"2023-05-11 11:37:33"}
+{"label":"index.js","level":"info","message":"Assessment group created %O","metadata":{},"timestamp":"2023-05-11 11:37:35"}
+{"label":"index.js","level":"info","message":"Creating subscriptions","metadata":{},"timestamp":"2023-05-11 11:37:35"}
+{"label":"index.js","level":"info","message":"Subscriptions created %O","metadata":{},"timestamp":"2023-05-11 11:42:33"}
+{"label":"index.js","level":"info","message":"Updating assessment status","metadata":{},"timestamp":"2023-05-11 11:42:35"}
+{"label":"index.js","level":"info","message":"Creating assessment group","metadata":{},"timestamp":"2023-05-11 11:43:28"}
+{"label":"index.js","level":"info","message":"Assessment group created %O","metadata":{},"timestamp":"2023-05-11 11:43:29"}
+{"label":"index.js","level":"info","message":"Creating subscriptions","metadata":{},"timestamp":"2023-05-11 11:43:29"}
+{"label":"index.js","level":"info","message":"Subscriptions created %O","metadata":{},"timestamp":"2023-05-11 11:43:49"}
+{"label":"index.js","level":"info","message":"Updating assessment status","metadata":{},"timestamp":"2023-05-11 11:43:50"}
+{"label":"index.js","level":"info","message":"Creating assessment group","metadata":{},"timestamp":"2023-05-11 11:45:55"}
+{"label":"index.js","level":"info","message":"Assessment group created %O","metadata":{},"timestamp":"2023-05-11 11:46:21"}
+{"label":"index.js","level":"info","message":"Creating subscriptions","metadata":{},"timestamp":"2023-05-11 11:46:21"}
+{"label":"index.js","level":"info","message":"Subscriptions created %O","metadata":{},"timestamp":"2023-05-11 11:46:41"}
+{"label":"index.js","level":"info","message":"Updating assessment status","metadata":{},"timestamp":"2023-05-11 11:46:42"}
+{"label":"index.js","level":"info","message":"Assessment status updated %O","metadata":{},"timestamp":"2023-05-11 11:46:50"}
+{"label":"index.js","level":"info","message":"Updating declaration of conformity","metadata":{},"timestamp":"2023-05-11 11:46:56"}
+{"label":"index.js","level":"info","message":"Creating assessment group","metadata":{},"timestamp":"2023-05-11 11:47:14"}
+{"label":"index.js","level":"info","message":"Assessment group created %O","metadata":{},"timestamp":"2023-05-11 11:47:16"}
+{"label":"index.js","level":"info","message":"Creating subscriptions","metadata":{},"timestamp":"2023-05-11 11:47:16"}
+{"label":"index.js","level":"info","message":"Subscriptions created %O","metadata":{},"timestamp":"2023-05-11 11:47:29"}
+{"label":"index.js","level":"info","message":"Updating assessment status","metadata":{},"timestamp":"2023-05-11 11:47:29"}
+{"label":"index.js","level":"info","message":"Assessment status updated %O","metadata":{},"timestamp":"2023-05-11 11:47:32"}
+{"label":"index.js","level":"info","message":"Updating declaration of conformity","metadata":{},"timestamp":"2023-05-11 11:47:32"}
+{"label":"index.js","level":"info","message":"Declaration of conformity updated %O","metadata":{},"timestamp":"2023-05-11 11:47:34"}
+{"label":"index.js","level":"info","message":"Updating assessment status","metadata":{},"timestamp":"2023-05-11 11:47:42"}
+{"label":"index.js","level":"info","message":"Assessment status updated %O","metadata":{},"timestamp":"2023-05-11 11:47:45"}
+{"label":"index.js","level":"info","message":"Creating assessment group","metadata":{},"timestamp":"2023-05-11 11:49:06"}
+{"label":"index.js","level":"info","message":"Assessment group created %O","metadata":{},"timestamp":"2023-05-11 11:49:08"}
+{"label":"index.js","level":"info","message":"Creating subscriptions","metadata":{},"timestamp":"2023-05-11 11:49:08"}
+{"label":"index.js","level":"info","message":"Subscriptions created %O","metadata":{},"timestamp":"2023-05-11 11:49:16"}
+{"label":"index.js","level":"info","message":"Updating assessment status","metadata":{},"timestamp":"2023-05-11 11:49:16"}
+{"label":"index.js","level":"info","message":"Assessment status updated %O","metadata":{},"timestamp":"2023-05-11 11:49:18"}
+{"label":"index.js","level":"info","message":"Updating declaration of conformity","metadata":{},"timestamp":"2023-05-11 11:49:18"}
+{"label":"index.js","level":"info","message":"Declaration of conformity updated %O","metadata":{},"timestamp":"2023-05-11 11:49:20"}
+{"label":"index.js","level":"info","message":"Updating assessment status","metadata":{},"timestamp":"2023-05-11 11:49:23"}
+{"label":"index.js","level":"info","message":"Assessment status updated %O","metadata":{},"timestamp":"2023-05-11 11:49:25"}
+{"label":"index.js","level":"info","message":"Updating assessment status","metadata":{},"timestamp":"2023-05-11 11:49:25"}
+{"label":"index.js","level":"info","message":"Assessment status updated %O","metadata":{},"timestamp":"2023-05-11 11:49:26"}
+{"label":"index.js","level":"info","message":"Updating assessment status","metadata":{},"timestamp":"2023-05-11 11:49:26"}
+{"label":"index.js","level":"info","message":"Assessment status updated %O","metadata":{},"timestamp":"2023-05-11 11:49:28"}
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+{"label":"index.js","level":"info","message":"Creating assessment group","metadata":{},"timestamp":"2023-05-11 11:56:06"}
+{"label":"index.js","level":"info","message":"Assessment group created {\n  id: '1adbfb5f-2df7-4c32-a7e4-f24f6e22b6ed',\n  externalId: '52143',\n  username: 'Madge_Harris',\n  startDate: '2023-05-11T12:56:06.282-03:00',\n  endDate: '2024-04-20T13:33:16.759-03:00',\n  assessmentGroupStatusHistory: {\n    id: '3983a71a-a530-454d-b2b7-d201e4119a4b',\n    creationDate: '2023-05-11T11:56:07.893546654-03:00',\n    reasons: 'Created',\n    username: 'Madge_Harris',\n    status: 'Creado'\n  },\n  groupTypeID: '1'\n}","metadata":{},"timestamp":"2023-05-11 11:56:07"}
+{"label":"index.js","level":"info","message":"Creating subscriptions","metadata":{},"timestamp":"2023-05-11 11:56:07"}
+{"label":"index.js","level":"info","message":"Subscriptions created [\n  {\n    id: 'a0403bff-606d-4886-9622-4f82bc27f3db',\n    externalId: 'a0403bff-606d-4886-9622-4f82bc27f3db',\n    name: 'Horacio',\n    lastName: 'Johnston',\n    username: 'FSIEH',\n    settingSubjectId: 'df511063-8e3b-56f7-b890-11d74b4f4a92',\n    settingSubjectVersionId: '5b508262-5df1-4367-802f-611858a0f181',\n    assessmentGroup: {\n      externalId: '52143',\n      username: 'Madge_Harris',\n      startDate: '2023-05-11T12:56:06.282-03:00',\n      endDate: '2024-04-20T13:33:16.759-03:00',\n      groupTypeID: '1',\n      lastModifiedByIntegration: null\n    },\n    assessment: {\n      id: 'a0403bff-606d-4886-9622-4f82bc27f3db',\n      generationTypeId: 2,\n      amountQuestions: 20,\n      grade: null,\n      endedBy: null,\n      declarationConformity: [Object],\n      assessmentName: 'primer parcial(20)',\n      status: [Object],\n      assessmentStatusHistories: [Array],\n      resolutionTime: 40,\n      maxRetries: 3,\n      minimumGradeToApprove: 4\n    },\n    courseName: 'TALLER DE INGENIERIA DE SOFTWARE',\n    academyCode: 'INF331',\n    assessmentExternalId: null\n  }\n]","metadata":{},"timestamp":"2023-05-11 11:56:10"}
+{"label":"index.js","level":"info","message":"Updating assessment status","metadata":{},"timestamp":"2023-05-11 11:56:10"}
+{"label":"index.js","level":"info","message":"Assessment status updated {\n  success: true,\n  assessmentErrorCode: 'ASSESSMENT_UPDATED_SUCCESSFULLY',\n  assessment: null\n}","metadata":{},"timestamp":"2023-05-11 11:56:12"}
+{"label":"index.js","level":"info","message":"Updating declaration of conformity","metadata":{},"timestamp":"2023-05-11 11:56:12"}
+{"label":"index.js","level":"info","message":"Declaration of conformity updated {\n  id: 'a0403bff-606d-4886-9622-4f82bc27f3db',\n  generationTypeId: 2,\n  amountQuestions: 20,\n  grade: null,\n  endedBy: { id: '5', reason: 'Automático' },\n  declarationConformity: { id: '1', status: 'Not Accepted' },\n  assessmentName: 'primer parcial(20)',\n  status: {\n    id: '09dfd3a0-d6e3-4156-93f9-b1716932475f',\n    date: '2023-05-11T11:56:13.547-03:00',\n    assessmentStatus: { id: 2, name: 'Habilitado' },\n    username: 'FSIEH',\n    reason: 'Accept declaration of conformity'\n  },\n  assessmentStatusHistories: [\n    {\n      id: '09dfd3a0-d6e3-4156-93f9-b1716932475f',\n      date: '2023-05-11T11:56:13.547-03:00',\n      assessmentStatus: [Object],\n      username: 'FSIEH',\n      reason: 'Accept declaration of conformity'\n    },\n    {\n      id: '632fc31b-8685-4fc4-ba4d-ce0998cc5030',\n      date: '2023-05-11T11:56:11.967961-03:00',\n      assessmentStatus: [Object],\n      username: 'FSIEH',\n      reason: 'Assessment enabled successfully'\n    },\n    {\n      id: '8593c338-5fc6-4f90-8dd9-07f79725b96a',\n      date: '2023-05-11T11:56:10.254-03:00',\n      assessmentStatus: [Object],\n      username: 'SYSTEM',\n      reason: 'Assessment created successfully'\n    }\n  ],\n  resolutionTime: 40,\n  maxRetries: 3,\n  minimumGradeToApprove: 4\n}","metadata":{},"timestamp":"2023-05-11 11:56:13"}
+{"label":"index.js","level":"info","message":"Updating assessment status","metadata":{},"timestamp":"2023-05-11 11:56:13"}
+{"label":"index.js","level":"info","message":"Assessment status updated {\n  success: true,\n  assessmentErrorCode: 'ASSESSMENT_UPDATED_SUCCESSFULLY',\n  assessment: null\n}","metadata":{},"timestamp":"2023-05-11 11:56:15"}
+{"label":"index.js","level":"info","message":"Updating assessment status","metadata":{},"timestamp":"2023-05-11 11:56:15"}
+{"label":"index.js","level":"info","message":"Assessment status updated {\n  success: true,\n  assessmentErrorCode: 'ASSESSMENT_UPDATED_SUCCESSFULLY',\n  assessment: null\n}","metadata":{},"timestamp":"2023-05-11 11:56:16"}
+{"label":"index.js","level":"info","message":"Updating assessment status","metadata":{},"timestamp":"2023-05-11 11:56:16"}
+{"label":"index.js","level":"info","message":"Assessment status updated {\n  success: true,\n  assessmentErrorCode: 'ASSESSMENT_UPDATED_SUCCESSFULLY',\n  assessment: null\n}","metadata":{},"timestamp":"2023-05-11 11:56:18"}

@@ -1,3 +1,4 @@
+require("dotenv").config();
 const querystring = require("querystring");
 const oauthUrl = process.env.OAUTH_URL;
 const clientId = process.env.CLIENT_ID;
@@ -24,7 +25,7 @@ async function generateToken(scope, scope2) {
     scope: `${scope},${scope2}`,
   });
 
-  console.log("making request");
+  // console.log("making request");
   // console.log('payload: ' + payload);
   // console.log('token_url: ' + tokenUrl);
 
